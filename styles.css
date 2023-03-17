@@ -1,0 +1,32 @@
+*{font-family: 'Roboto', sans-serif;margin:0;-webkit-padding-start: 0;}
+html{overflow: auto;}
+header{height: 500px;background-color: #1F2937;margin-top: -20px;padding: 20px;}
+.reg{width:75%;margin:20px auto;min-width:800px}
+ul { list-style-type: none;margin: 0;padding: 0;overflow: hidden;}
+  li {float: left;}
+  li:not(.logo){float: right;color:#E5EBE7;font-size: 18px;padding-left: 20px;}
+  li a {display: block;color: white;text-align: center;padding:0;text-decoration: none;}
+    .logo{text-decoration: none;color:#F9FAF8;font-size: 24px;font-weight: 700;}
+h1{color:#F9FAF8;font-size: 48px;font-weight: 800;margin-top: 20px;}
+.maintext{font-size: 18px;color:#E5E7EB;}
+.main{margin:90px 0px;padding: 8px;min-width: 600px;}
+.mainimg{width: 45%;float: right;border-radius: 10px;min-width: 300px;}
+h1, p{width:50%;}
+input{background-color: #3882F6;color:#F9FAF8 ;font-size: 18px;border-radius: 10px;padding: 8px;width: 140px;border: 0px;margin-top: 10px;}
+.meio{height: 450px;}
+h2{text-align: center;font-size: 36px;font-weight: 900;color: #1F2937;margin-top: 50px;}
+.fotos{display: flex;justify-content: center;gap: 50px;margin-top: 40px;}
+figcaption{text-align: center;width: 150px;padding-left: 20px;color:#1f2937;font-weight: 500;margin-top: 10px;}
+.secimg{width: 180px;height: 180px;border: 5px solid #3882F6;border-radius: 20px;object-fit: cover;}
+.quote{height: 550px;background-color: #E5E7EB;}
+.cite{font-size: 36px;color:#1F2937;font-style: italic;text-align: left;margin:auto ; padding-top: 80px;font-weight: 300;min-width: 550px;}
+.autor{margin:-10px auto;text-align: right;font-size: 24px;font-weight: 800;color: #1f2937;}
+.final{height: 350px;position: relative;}
+.finalb{text-align: left;border: none;position: absolute;top:30%;left:15%;border-radius: 10px;background-color: #3882F6;width:60%;height: 30%;
+  color:#F9FAF8;padding-left:10%;padding-top: 50px;}
+.button2{background-color: #3882F6;color:#F9FAF8 ;font-size: 18px;border-radius: 10px;padding: 8px;width: 140px;margin-right: 150px;
+  border: 2px solid #F9FAF8;float: right;margin-top:-50px ;}
+footer{height:50px;background-color: #1F2937;text-align: center;font-size: 18px;color:#f9faf8a8;padding-top: 30px;}
+
+
+
