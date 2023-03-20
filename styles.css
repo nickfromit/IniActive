@@ -20,7 +20,7 @@ figcaption{text-align: center;width: 150px;padding-left: 20px;color:#1f2937;font
 .secimg{width: 180px;height: 180px;border: 5px solid #3882F6;border-radius: 20px;object-fit: cover;}
 .quote{height: 550px;background-color: #E5E7EB;}
 .cite{font-size: 36px;color:#1F2937;font-style: italic;text-align: left;margin:auto ; padding-top: 80px;font-weight: 300;min-width: 550px;}
-.autor{margin:-5px auto;text-align: right;font-size: 24px;font-weight: 800;color: #1f2937;}
+.autor{margin:0 auto;text-align: right;font-size: 24px;font-weight: 800;color: #1f2937;}
 .final{height: 350px;position: relative;}
 .finalb{text-align: left;border: none;position: absolute;top:30%;left:15%;border-radius: 10px;background-color: #3882F6;width:60%;height: 30%;
   color:#F9FAF8;padding-left:10%;padding-top: 50px;}
